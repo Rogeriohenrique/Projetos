@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Lucas\Documents\Sites publicados</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/Painel/Views/Painel/Detalhes.cshtml">
+      <publishTime>03/31/2014 10:49:21</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Painel/Login.cshtml">
+      <publishTime>03/31/2014 01:30:55</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Painel/NovoCadastro.cshtml">
+      <publishTime>03/31/2014 03:10:26</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Painel/Update.cshtml">
+      <publishTime>03/31/2014 10:29:34</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Painel/_Index.cshtml">
+      <publishTime>03/31/2014 10:59:15</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Shared/_Layout.cshtml">
+      <publishTime>03/31/2014 11:45:34</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/Shared/_LayoutLogin.cshtml">
+      <publishTime>03/31/2014 11:51:12</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/web.config">
+      <publishTime>03/31/2014 00:58:49</publishTime>
+    </File>
+    <File Include="Areas/Painel/Views/_ViewStart.cshtml">
+      <publishTime>03/31/2014 00:59:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/31/2014 00:30:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/31/2014 00:30:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/31/2014 00:30:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>03/31/2014 00:30:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>03/31/2014 00:30:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>03/31/2014 00:30:41</publishTime>
+    </File>
+    <File Include="bin/TrabalhoADO.dll">
+      <publishTime>04/05/2014 02:49:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="Content/Images/empresa.jpg">
+      <publishTime>03/31/2014 10:49:08</publishTime>
+    </File>
+    <File Include="Content/typica-login.css">
+      <publishTime>03/31/2014 01:16:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/31/2014 00:36:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/31/2014 00:36:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/31/2014 00:36:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/31/2014 00:36:44</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/31/2014 00:30:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/31/2014 00:37:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/31/2014 00:36:44</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/31/2014 00:36:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>03/31/2014 00:36:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>03/31/2014 00:36:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>03/31/2014 00:36:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/31/2014 00:37:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/31/2014 00:37:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>03/31/2014 00:37:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>03/31/2014 00:37:42</publishTime>
+    </File>
+    <File Include="Scripts/typica-login.js">
+      <publishTime>03/31/2014 01:16:31</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/31/2014 11:43:44</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/31/2014 01:19:48</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>03/31/2014 00:30:39</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/31/2014 00:37:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/05/2014 02:49:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

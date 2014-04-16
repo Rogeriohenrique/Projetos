@@ -1,0 +1,65 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(Imagens-login/Fundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: segoe ui;
+}
+
+section input {
+    margin-bottom: 20px;
+    background-image: url(Imagens-login/TextBox.jpg);
+    border: none;
+    height: 31px;
+    width: 220px;
+    padding-left: 10px;
+}
+
+#wraper {
+    padding-top: 100px;
+}
+
+.title {
+    font-size: 90px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.form-login {
+    margin: 0 auto;
+    text-align: center;
+    border-style: none;
+    box-shadow: none;
+}
+
+.btnLogar {
+    width: 100px;
+    height: 40px;
+    background-color: #2d2d2d;
+    border-style: none;
+    box-shadow: none;
+    font-family: segoe ui;
+    color: #fff;
+    font-size: 15px
+}
+
+    .btnLogar:hover {
+        background-color: #252525;
+        border-style: none;
+        box-shadow: none;
+    }
+
+    .btnLogar:active {
+        background-color: #0b0b0b;
+        border-style: none;
+        box-shadow: none;
+    }
+
+.inputs {
+    margin: 4px;
+}

@@ -1,0 +1,24 @@
+﻿@model TrabalhoADO.Areas.Painel.Models.Usuario
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Areas/Painel/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div class="container">
+    <div id="wraper">
+        <form class="form-login" method="POST" action="">
+            <div class="title">Login</div>
+            <section class="inputs"> 
+                @Html.TextBoxFor(x => x.User, new {@placeholder="Usuário"})
+                <br />
+
+                @Html.PasswordFor(x => x.Pass, new { @placeholder = "Senha" })
+            </section>
+
+                <button type="submit" class="btnLogar">Entrar</button>
+        </form>
+        
+        
+    </div>
+</div>
+
